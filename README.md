@@ -28,3 +28,8 @@ Selection sort is an algorithm that selects the smallest element from an unsorte
 * [Selection Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/Selection_Sort/main.cpp)
 * Time Taken: 7994 Microseconds (7.994 Milliseconds)
   - Usually quicker than Bubble Sort
+* **GIF SPEED NOT TO SCALE**  
+  </br>
+  </br>
+  
+## Insertion Sort 🔽
