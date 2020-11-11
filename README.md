@@ -13,3 +13,9 @@ Bubble sort is an algorithm that compares the adjacent elements and swaps their 
   * [Bubble Sort](https://www.programiz.com/dsa/bubble-sort)
   * Completxity: 0(n^2)
   * [Bubble Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/main.cpp)
+  </br>
+  </br>
+  </br>
+  </br>
+
+## Selection Sort ⛏
