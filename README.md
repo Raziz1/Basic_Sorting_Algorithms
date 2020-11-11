@@ -19,3 +19,6 @@ Bubble sort is an algorithm that compares the adjacent elements and swaps their 
   </br>
 
 ## Selection Sort ⛏
+Selection sort is an algorithm that selects the smallest element from an unsorted list in each iteration and places that element at the beginning of the unsorted list.
+
+* [Selection Sort](https://www.programiz.com/dsa/selection-sort)
