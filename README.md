@@ -28,4 +28,4 @@ Selection sort is an algorithm that selects the smallest element from an unsorte
 * Completxity: 0(n^2)
 * [Bubble Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/main.cpp)
 * Time Taken: 7994 Microseconds (7.994 Milliseconds)
- - Usually quicker than Bubble Sort
+  - Usually quicker than Bubble Sort
