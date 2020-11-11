@@ -12,7 +12,7 @@ Bubble sort is an algorithm that compares the adjacent elements and swaps their 
 
   * [Bubble Sort](https://www.programiz.com/dsa/bubble-sort)
   * Completxity: 0(n^2)
-  * [Bubble Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/main.cpp)
+  * [Bubble Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/Bubble_Sort/main.cpp)
   * Time Taken: 7876 Microseconds (7.876 Milliseconds)
   * **GIF SPEED NOT TO SCALE**
   </br>
@@ -26,6 +26,6 @@ Selection sort is an algorithm that selects the smallest element from an unsorte
 
 * [Selection Sort](https://www.programiz.com/dsa/selection-sort)
 * Completxity: 0(n^2)
-* [Bubble Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/main.cpp)
+* [Selection Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/Selection_Sort/main.cpp)
 * Time Taken: 7994 Microseconds (7.994 Milliseconds)
   - Usually quicker than Bubble Sort
