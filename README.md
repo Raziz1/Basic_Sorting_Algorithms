@@ -17,7 +17,6 @@ Bubble sort is an algorithm that compares the adjacent elements and swaps their 
   * **GIF SPEED NOT TO SCALE**
   </br>
   </br>
-  </br>
 
 ## Selection Sort ⛏
 <img width="400" height="300" align='Right' src="https://github.com/Raziz1/Sorting_Algorithms/blob/main/gif/Selection_Sort_GIF.gif? raw=true">
