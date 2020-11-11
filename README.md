@@ -14,6 +14,7 @@ Bubble sort is an algorithm that compares the adjacent elements and swaps their 
   * Completxity: 0(n^2)
   * [Bubble Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/main.cpp)
   * Time Taken: 7876 Microseconds (7.876 Milliseconds)
+  * **GIF SPEED NOT TO SCALE**
   </br>
   </br>
   </br>
