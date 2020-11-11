@@ -33,3 +33,13 @@ Selection sort is an algorithm that selects the smallest element from an unsorte
   </br>
   
 ## Insertion Sort 🔽
+Insertion sort is a sorting algorithm that places an unsorted element at its suitable place in each iteration.
+
+* [Insertion Sort](https://www.programiz.com/dsa/insertion-sort)
+* Completxity: 0(n^2)
+* [Selection Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/Selection_Sort/main.cpp)
+* Time Taken: 7984 Microseconds (7.984 Milliseconds)
+* **GIF SPEED NOT TO SCALE**  
+  </br>
+  </br>
+
