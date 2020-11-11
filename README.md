@@ -1,5 +1,5 @@
 # Sorting_Algorithms📊
-Visualization of sorting algorithms in C++
+Visualization of sorting algorithms in C++ using SFML graphics library
 
 ## Libraries 📚
 * [SFML](https://www.sfml-dev.org/)
