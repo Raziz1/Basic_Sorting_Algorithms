@@ -1,4 +1,4 @@
-# Sorting_Algorithms📊
+# Basic_Sorting_Algorithms📊
 Visualization of sorting algorithms in C++ using SFML graphics library
 
 ## Libraries 📚
