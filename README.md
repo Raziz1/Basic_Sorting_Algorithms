@@ -39,7 +39,7 @@ Insertion sort is a sorting algorithm that places an unsorted element at its sui
 
 * [Insertion Sort](https://www.programiz.com/dsa/insertion-sort)
 * Completxity: 0(n^2)
-* [Selection Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/Selection_Sort/main.cpp)
+* [Insertion Sort Code](https://github.com/Raziz1/Sorting_Algorithms/blob/main/code/Insertion_Sort/main.cpp)
 * Time Taken: 7984 Microseconds (7.984 Milliseconds)
 * **GIF SPEED NOT TO SCALE**  
   </br>
